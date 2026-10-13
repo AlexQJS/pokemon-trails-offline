@@ -66,7 +66,7 @@ The installer asks which language to use when the game starts for the first time
 ### Development
 
 - [JellyMudkip](https://twitter.com/JellyMudkip) — Developer and creator
-- [Esplayon](https://twitter.com/Esplayon) — Main zone designer and tester
+- [Espleis](https://twitter.com/espleisss) — Main zone designer and tester
 
 ### Artists
 
