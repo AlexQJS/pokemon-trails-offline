@@ -6,7 +6,7 @@
   <p><strong>Set out on an endless, randomly generated Pokémon adventure — right on your desktop browser.</strong></p>
 
   <p>
-    <a href="https://github.com/PokemonTrails/PokemonTrailsOffline/releases/PokemonTrails-Setup.exe">
+    <a href="https://github.com/AlexQJS/pokemon-trails-offline/releases/latest">
       <img src="https://img.shields.io/badge/Download-Windows%20Installer-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download the Windows installer">
     </a>
   </p>
@@ -38,8 +38,8 @@ The offline edition disables online features such as chat, energy, pokemon leagu
 
 ## Download and play
 
-1. Download the [Windows installer](https://github.com/PokemonTrails/PokemonTrailsOffline/releases/PokemonTrails-Setup.exe).
-2. Run `PokemonTrails-Setup.exe` and choose English or Spanish, or extract the ZIP to a folder of your choice.
+1. Download the [Windows installer](https://github.com/AlexQJS/pokemon-trails-offline/releases).
+2. Run the installer (e.g. `PokemonTrailsOffline-Setup-v1.0.0.exe`) and choose English or Spanish, or extract the ZIP to a folder of your choice.
 3. Start `PokemonTrails.exe`. On the first launch, choose a player name to create your local save.
 
 Your game data is stored in `%LOCALAPPDATA%\PokemonTrails`. The portable version does not require XAMPP on your computer. For save locations, launch options, and build instructions, see [`LOCAL-WINDOWS.md`](LOCAL-WINDOWS.md).
@@ -66,7 +66,7 @@ The installer asks which language to use when the game starts for the first time
 ### Development
 
 - [JellyMudkip](https://twitter.com/JellyMudkip) — Developer and creator
-- [Espleis](https://twitter.com/espleisss) — Main zone designer and tester
+- [Esplayon](https://twitter.com/Esplayon) — Main zone designer and tester
 
 ### Artists
 
