@@ -38,7 +38,7 @@ The offline edition disables online features such as chat, energy, pokemon leagu
 
 ## Download and play
 
-1. Download the [Windows installer](https://github.com/AlexQJS/pokemon-trails-offline/releases).
+1. Download the [Windows installer](https://github.com/AlexQJS/pokemon-trails-offline/releases/latest).
 2. Run the installer (e.g. `PokemonTrailsOffline-Setup-v1.0.0.exe`) and choose English or Spanish, or extract the ZIP to a folder of your choice.
 3. Start `PokemonTrails.exe`. On the first launch, choose a player name to create your local save.
 
