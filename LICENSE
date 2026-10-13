@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Alex
+Copyright (c) 2022-2026 Pokémon Trails contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Additional note:
+This license applies only to the original code in this project. It does not
+grant any rights over Pokémon names, images, sprites, logos, audio, trademarks,
+or other copyrighted material belonging to Nintendo, The Pokémon Company,
+Creatures Inc., Game Freak, or any third party. Those assets remain protected
+by their respective rights.
